@@ -3,7 +3,7 @@
 
 struct Marks 
 {
-    int roll_no;
+    int rollno;
     char name[30];
     float chemmarks, mathsmarks, phymarks;
 };
